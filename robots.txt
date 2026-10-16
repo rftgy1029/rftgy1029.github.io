@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://rftgy1029.github.io/sitemap.xml
+Sitemap: https://rftgy1029.github.io/alba-pay-calculator/sitemap.xml
